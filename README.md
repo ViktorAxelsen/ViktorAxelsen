@@ -24,7 +24,7 @@ My early research primarily focused on **Graph Data Mining** and **AI4Sec**, and
 
 </details>
 
-
+---
 
 🔍 Currently, I’m focusing on **Large Language Models (LLMs)** and their **synergy with graphs**. Some of my recent works include:
 
@@ -38,10 +38,6 @@ My early research primarily focused on **Graph Data Mining** and **AI4Sec**, and
 
 🔗 You can find more about me on my [**Homepage**](https://github.com/ViktorAxelsen).  
 📬 Feel free to reach out via **wazhz14@gmail.com** — I'm always open to discussion and collaboration!
-
-
-
-
 
 
 <!--
