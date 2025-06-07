@@ -36,7 +36,7 @@ My early research primarily focused on **Graph Data Mining** and **AI4Sec**, and
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/Router-R1?style=social)  
   *Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning*
 
-🔗 You can find more about me on my [**Homepage**](https://github.com/ViktorAxelsen).  
+🔗 You can find more about me on my [**Homepage**](https://viktoraxelsen.github.io/).  
 📬 Feel free to reach out via **wazhz14@gmail.com** — I'm always open to discussion and collaboration!
 
 
