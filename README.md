@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 
 I’m currently a CS Ph.D. student at **Nanyang Technological University (NTU)**.  
-Previously, I earned my **B.E.** from *Tianjin University* and **M.S.** from *Tsinghua University*.  
+Previously, I earned my **B.Eng.** from *Tianjin University* and **M.Eng.** from *Tsinghua University*.  
 
 My early research primarily focused on **Graph Data Mining** and **AI4Sec**, and you can find some of my representative works here:
 
