@@ -32,6 +32,10 @@ My early research primarily focused on **Graph Data Mining** and **AI4Sec**, and
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/GoR?style=social)  
   *Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs*
 
+- ⭐️ [**AcademicEval** (TMLR, 2025)]()
+  arXiv version, code, and datasets will be released soon.
+  *AcademicEval: Live Long-Context LLM Benchmark*
+
 - ⭐️ [**Router-R1** (NeurIPS 2025)](https://github.com/ulab-uiuc/Router-R1)  
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/Router-R1?style=social)  
   *Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning*
