@@ -1,9 +1,9 @@
 ## 👨‍💻 About Me
 
-I’m currently a CS Ph.D. student at **Nanyang Technological University (NTU)**.  
+I’m currently a first-year CS Ph.D. student at **Nanyang Technological University (NTU)**.  
 Previously, I earned my **B.Eng.** from *Tianjin University* and **M.Eng.** from *Tsinghua University*.  
 
-My early research primarily focused on **Graph Data Mining** and **AI4Sec**, and you can find some of my representative works here:
+My early research primarily focused on Graph Data Mining and AI4Sec, and you can find some of my representative works here:
 
 <details>
 <summary>📂 <strong>Early Research Projects</strong></summary>
@@ -26,7 +26,7 @@ My early research primarily focused on **Graph Data Mining** and **AI4Sec**, and
 
 ---
 
-🔍 Currently, I’m focusing on **Large Language Models (LLMs)** and their **synergy with graphs**. Some of my recent works include:
+🔍 Currently, I’m focusing on **LLM/Agent Memory** & **Routers**, and their **synergy with graphs**. Some of my recent works include:
 
 - ⭐️ [**Graph of Records** (ACL 2025 Main)](https://github.com/ulab-uiuc/GoR)  
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/GoR?style=social)  
