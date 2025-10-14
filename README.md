@@ -40,9 +40,9 @@ My early research primarily focused on Graph Data Mining and AI4Sec, and you can
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/Router-R1?style=social)  
   *Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning*
 
-- ⭐️ [**FusionBench**](https://github.com/ulab-uiuc/FusionFactory)  
+- ⭐️ [**FusionFactory**](https://github.com/ulab-uiuc/FusionFactory)  
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/FusionFactory?style=social)  
-  *Fusing LLM Capabilities with Routing Data*
+  *FusionFactory: Fusing LLM Capabilities with Multi-LLM Log Data*
 
 
 🔗 You can find more about me on my [**Homepage**](https://viktoraxelsen.github.io/).  
