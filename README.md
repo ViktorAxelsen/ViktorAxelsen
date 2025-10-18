@@ -32,7 +32,7 @@ My early research primarily focused on Graph Data Mining and AI4Sec, and you can
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/GoR?style=social)  
   *Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs*
 
-- ⭐️ [**AcademicEval** (TMLR, 2025)](https://github.com/ulab-uiuc/AcademicEval)  
+- ⭐️ [**AcademicEval** (TMLR 2025)](https://github.com/ulab-uiuc/AcademicEval)  
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/AcademicEval?style=social)  
   *AcademicEval: Live Long-Context LLM Benchmark* (arXiv version, code, and datasets will be released soon)
 
