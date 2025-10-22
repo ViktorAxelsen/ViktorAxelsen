@@ -3,7 +3,7 @@
 I’m currently a first-year CS Ph.D. student at **Nanyang Technological University (NTU)**.  
 Previously, I earned my **B.Eng.** from *Tianjin University* and **M.Eng.** from *Tsinghua University*.  
 
-My early research primarily focused on Graph Data Mining and AI4Sec, and you can find some of my representative works here:
+My early research primarily focused on Graph Data Mining, and you can find some of my representative works here:
 
 <details>
 <summary>📂 <strong>Early Research Projects</strong></summary>
