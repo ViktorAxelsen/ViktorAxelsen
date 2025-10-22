@@ -34,7 +34,7 @@ My early research primarily focused on Graph Data Mining and AI4Sec, and you can
 
 - ⭐️ [**AcademicEval** (TMLR 2025)](https://github.com/ulab-uiuc/AcademicEval)  
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/AcademicEval?style=social)  
-  *AcademicEval: Live Long-Context LLM Benchmark* (arXiv version, code, and datasets will be released soon)
+  *AcademicEval: Live Long-Context LLM Benchmark*
 
 - ⭐️ [**Router-R1** (NeurIPS 2025)](https://github.com/ulab-uiuc/Router-R1)  
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/Router-R1?style=social)  
