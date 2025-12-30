@@ -44,6 +44,10 @@ My early research primarily focused on Graph Data Mining, and you can find some 
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/FusionFactory?style=social)  
   *FusionFactory: Fusing LLM Capabilities with Multi-LLM Log Data*
 
+- ⭐️ [**LLMRouter**](https://github.com/ulab-uiuc/LLMRouter)  
+  ![Stars](https://img.shields.io/github/stars/ulab-uiuc/LLMRouter?style=social)  
+  *LLMRouter: An Open-Source Library for LLM Routing*
+
 
 🔗 You can find more about me on my [**Homepage**](https://viktoraxelsen.github.io/).  
 📬 Feel free to reach out via **wazhz14@gmail.com** — I'm always open to discussion and collaboration!
