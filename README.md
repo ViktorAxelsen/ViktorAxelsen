@@ -32,10 +32,6 @@ My early research primarily focused on Graph Data Mining, and you can find some 
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/GoR?style=social)  
   *Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs*
 
-- ⭐️ [**AcademicEval** (TMLR 2025)](https://github.com/ulab-uiuc/AcademicEval)  
-  ![Stars](https://img.shields.io/github/stars/ulab-uiuc/AcademicEval?style=social)  
-  *AcademicEval: Live Long-Context LLM Benchmark*
-
 - ⭐️ [**Router-R1** (NeurIPS 2025)](https://github.com/ulab-uiuc/Router-R1)  
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/Router-R1?style=social)  
   *Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning*
@@ -48,9 +44,15 @@ My early research primarily focused on Graph Data Mining, and you can find some 
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/LLMRouter?style=social)  
   *LLMRouter: An Open-Source Library for LLM Routing*
 
+- ⭐️ [**MemSkill**](https://github.com/ViktorAxelsen/MemSkill)  
+![Stars](https://img.shields.io/github/stars/ViktorAxelsen/MemSkill?style=social)  
+*MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents*
+
 
 🔗 You can find more about me on my [**Homepage**](https://viktoraxelsen.github.io/).  
 📬 Feel free to reach out via **wazhz14@gmail.com** — I'm always open to discussion and collaboration!
+
+
 
 
 <!--
@@ -69,5 +71,9 @@ Here are some ideas to get you started:
 
 ![ViktorAxelsen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViktorAxelsen&show_icons=true&bg_color=F4F4F4,E8ECF1,DDE5ED&title_color=2C3E50&text_color=4F5D75&icon_color=007ACC&hide_border=true)
 
+
+- ⭐️ [**AcademicEval** (TMLR 2025)](https://github.com/ulab-uiuc/AcademicEval)  
+  ![Stars](https://img.shields.io/github/stars/ulab-uiuc/AcademicEval?style=social)  
+  *AcademicEval: Live Long-Context LLM Benchmark*
 
 -->
