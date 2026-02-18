@@ -36,10 +36,6 @@ My early research primarily focused on Graph Data Mining, and you can find some 
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/Router-R1?style=social)  
   *Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning*
 
-- ⭐️ [**FusionFactory**](https://github.com/ulab-uiuc/FusionFactory)  
-  ![Stars](https://img.shields.io/github/stars/ulab-uiuc/FusionFactory?style=social)  
-  *FusionFactory: Fusing LLM Capabilities with Multi-LLM Log Data*
-
 - ⭐️ [**LLMRouter**](https://github.com/ulab-uiuc/LLMRouter)  
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/LLMRouter?style=social)  
   *LLMRouter: An Open-Source Library for LLM Routing*
@@ -75,5 +71,11 @@ Here are some ideas to get you started:
 - ⭐️ [**AcademicEval** (TMLR 2025)](https://github.com/ulab-uiuc/AcademicEval)  
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/AcademicEval?style=social)  
   *AcademicEval: Live Long-Context LLM Benchmark*
+
+
+- ⭐️ [**FusionFactory**](https://github.com/ulab-uiuc/FusionFactory)  
+  ![Stars](https://img.shields.io/github/stars/ulab-uiuc/FusionFactory?style=social)  
+  *FusionFactory: Fusing LLM Capabilities with Multi-LLM Log Data*
+
 
 -->
