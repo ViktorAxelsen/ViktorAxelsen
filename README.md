@@ -26,7 +26,8 @@ My early research primarily focused on Graph Data Mining, and you can find some 
 
 ---
 
-🔍 Currently, I’m focusing on **LLM/Agent Memory** & **Routers**, and their **synergy with graphs**. Some of my recent works include:
+🔍 Currently, I am interested in **memory and experience in long-horizon agentic systems**, with the goal of enabling agents to continuously learn, adapt, and evolve through interaction.
+My work explores how experience can be structured, reused, and refined over time, supported by **adaptive computation** and **structured representations**. Some of my recent works include:
 
 - ⭐️ [**Graph of Records** (ACL 2025 Main)](https://github.com/ulab-uiuc/GoR)  
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/GoR?style=social)  
