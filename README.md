@@ -41,6 +41,10 @@ My work explores how experience can be structured, reused, and refined over time
   ![Stars](https://img.shields.io/github/stars/ulab-uiuc/LLMRouter?style=social)  
   *LLMRouter: An Open-Source Library for LLM Routing*
 
+- ⭐️ [**BudgetMem** (ICML 2026)](https://github.com/ViktorAxelsen/BudgetMem)  
+![Stars](https://img.shields.io/github/stars/ViktorAxelsen/BudgetMem?style=social)  
+*Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory*
+
 - ⭐️ [**MemSkill**](https://github.com/ViktorAxelsen/MemSkill)  
 ![Stars](https://img.shields.io/github/stars/ViktorAxelsen/MemSkill?style=social)  
 *MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents*
